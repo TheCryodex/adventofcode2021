@@ -1,5 +1,5 @@
 # adventofcode2021
 
-Solution to the Advent of Code 2021 in Javascript.
+This repo contains the solutions to the Advent of Code 2021 written in Javascript.
 
 Advent of Code : https://adventofcode.com/2021
